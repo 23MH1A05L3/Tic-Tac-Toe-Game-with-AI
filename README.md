@@ -1,5 +1,6 @@
 Tic-Tac-Toe Game with AI
-A console-based Tic-Tac-Toe game where the player competes against an unbeatable AI using the Minimax algorithm. This project showcases recursive decision-making, game state evaluation, and clean terminal interaction using C++.
+A console-based Tic-Tac-Toe game where the player competes against an unbeatable AI using the Minimax algorithm. 
+This project showcases recursive decision-making, game state evaluation, and clean terminal interaction using C++.
 
 Features:
 •	- Implements the Minimax algorithm to make the AI unbeatable.
